@@ -1,0 +1,3 @@
+définir la droite réelle
+Commencer par des exemples numériques d'intervalles
+plus d'exemples d'intersection et d'unions d'intervalles
