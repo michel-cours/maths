@@ -1,3 +1,4 @@
 définir la droite réelle
 Commencer par des exemples numériques d'intervalles
+changer la notation (supprimer le x \in  pour clarifier)
 plus d'exemples d'intersection et d'unions d'intervalles
